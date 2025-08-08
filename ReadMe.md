@@ -1,4 +1,4 @@
-HederaP2P 3.0
+*HederaP2P 3.0*
 
 Hedera Hello Future Origins Hackathon Repo
 
